@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anti_clockwise_rotation.xml",
+        "source": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\app\\src\\main\\res\\anim\\anti_clockwise_rotation.xml"
+    },
+    {
+        "merged": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\clockwise_rotation.xml",
+        "source": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\app\\src\\main\\res\\anim\\clockwise_rotation.xml"
+    }
+]
