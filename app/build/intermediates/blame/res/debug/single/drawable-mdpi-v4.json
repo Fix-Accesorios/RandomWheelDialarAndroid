@@ -2,5 +2,9 @@
     {
         "merged": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\RandomWheelDialarAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\RandomWheelDialarAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

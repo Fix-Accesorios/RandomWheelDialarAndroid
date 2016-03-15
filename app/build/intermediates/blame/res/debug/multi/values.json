@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\RandomWheelDialarAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\RandomWheelDialarAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\ndkrnd\\android-ndk-master\\wheel-menu-sample\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {

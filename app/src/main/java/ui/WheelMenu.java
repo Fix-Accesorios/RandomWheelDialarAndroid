@@ -436,8 +436,8 @@ public class WheelMenu extends ImageView {
 
         // nextInt is normally exclusive of the top value,
         // so add 1 to make it inclusive
-        int max = 1500;
-        int min = 700;
+        int max = 2500;
+        int min = 1000;
 
         int randomNum = rand.nextInt((max - min) + 1) + min;
 
